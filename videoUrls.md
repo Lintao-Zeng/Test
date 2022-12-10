@@ -4,4 +4,9 @@
 
 [qmzdjy](https://download.caiyun.feixin.10086.cn/storageWeb/servlet/downloadServlet?code=NmkxMjExZkdsVUUwazAwNTIxN3JuTFVtck8x&un=0E0C578FD09E8DB1523F70B1E5ACB055402A1ED62943D355D13A55EBCCEA2960&dom=D983&rate=0&txType=0)
 
-[mbc](https://gzc-download.ftn.qq.com/ftn_handler/00946c10fb5813c886b4126430158c7ea183b0674ca134876aa9b687b0c47175cdd0e1a72281a02c2b38c1afaf14f93217fcaf3b6367a6ee44fa32f99287e164?&fname=mbc.mp4&eggs)
+[mbc咪咕](http://hlsmgspvod.miguvideo.com:8080/depository_yqv/asset/zhengshi/1016/184/343/1016184343/media/1016184343_5042216639_56.mp4.m3u8?msisdn=9a968b1978ca22a56620fbbb056662b8&mdspid=&spid=800033&netType=0&sid=1709440734&pid=2028597139&timestamp=20221210191049&Channel_ID=0131_10010001005&ProgramID=754456091&ParentNodeID=-99&assertID=1709440734&client_ip=2409:8950:4c61:5006:cb:c262:898b:4b1c&SecurityKey=20221210191049&mvid=1016184343&mcid=500960&mpid=500960&playurlVersion=ZQ-A1-5.11.7-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&encrypt=7fd7d72acb171d32e2c2de69a08ffba5)
+
+[mbc搜狐](https://api.my.tv.sohu.com/v2/play/406145455_1_27844505_0_3517944640.m3u8?vid=406145455&uid=1670670544361896&plat=17&SOHUSVP=4RbGM5sjeBvu1jRdCBpS6F4Ay3lPvQfg91DfqQtJkMU&pt=5&prod=h5&pg=1&eye=0&cv=1.0.0&qd=680&src=11050001&ca=4&cateCode=329&_c=1&appid=tv&oth=&cd=)
+
+
+

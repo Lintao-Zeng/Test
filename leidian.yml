@@ -1,0 +1,12 @@
+Proxy:
+
+# socks5
+- name: "socks"
+  type: socks5
+  server: 127.0.0.1
+  port: 1080
+  # username: username
+  # password: password
+  # tls: true
+  # skip-cert-verify: true
+  # udp: true
